@@ -33,3 +33,4 @@ This list is taken from GitHub's Insights > Contributors tab on October 1st 2018
 - [thibautvs](https://github.com/thibautvs)
 - [woshibiantai](https://github.com/woshibiantai)
 - [yoyosamo](https://github.com/yoyosamo)
+- [BahaaNouh](https://github.com/bahaaNouh)
